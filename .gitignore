@@ -7,7 +7,7 @@ bin-release/
 # Other files and folders
 .settings/
 Bank-Data/
-instructions-20220908-1662595200 (1).ipynb
+Test.ipynb
 
 # Executables
 *.swf
